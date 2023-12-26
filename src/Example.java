@@ -24,5 +24,7 @@ public class Example {
 
         }
 
+        // ИЗМЕНЕНИЯ В КОДЕ
+
     }
 }
